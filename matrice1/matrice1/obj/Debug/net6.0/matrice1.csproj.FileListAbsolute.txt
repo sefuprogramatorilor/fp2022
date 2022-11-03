@@ -1,0 +1,15 @@
+C:\fp2022\matrice1\matrice1\bin\Debug\net6.0\matrice1.exe
+C:\fp2022\matrice1\matrice1\bin\Debug\net6.0\matrice1.deps.json
+C:\fp2022\matrice1\matrice1\bin\Debug\net6.0\matrice1.runtimeconfig.json
+C:\fp2022\matrice1\matrice1\bin\Debug\net6.0\matrice1.dll
+C:\fp2022\matrice1\matrice1\bin\Debug\net6.0\matrice1.pdb
+C:\fp2022\matrice1\matrice1\obj\Debug\net6.0\matrice1.csproj.AssemblyReference.cache
+C:\fp2022\matrice1\matrice1\obj\Debug\net6.0\matrice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\fp2022\matrice1\matrice1\obj\Debug\net6.0\matrice1.AssemblyInfoInputs.cache
+C:\fp2022\matrice1\matrice1\obj\Debug\net6.0\matrice1.AssemblyInfo.cs
+C:\fp2022\matrice1\matrice1\obj\Debug\net6.0\matrice1.csproj.CoreCompileInputs.cache
+C:\fp2022\matrice1\matrice1\obj\Debug\net6.0\matrice1.dll
+C:\fp2022\matrice1\matrice1\obj\Debug\net6.0\refint\matrice1.dll
+C:\fp2022\matrice1\matrice1\obj\Debug\net6.0\matrice1.pdb
+C:\fp2022\matrice1\matrice1\obj\Debug\net6.0\matrice1.genruntimeconfig.cache
+C:\fp2022\matrice1\matrice1\obj\Debug\net6.0\ref\matrice1.dll

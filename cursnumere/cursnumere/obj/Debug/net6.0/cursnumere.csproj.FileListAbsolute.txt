@@ -1,0 +1,15 @@
+C:\fp2022\cursnumere\cursnumere\bin\Debug\net6.0\cursnumere.exe
+C:\fp2022\cursnumere\cursnumere\bin\Debug\net6.0\cursnumere.deps.json
+C:\fp2022\cursnumere\cursnumere\bin\Debug\net6.0\cursnumere.runtimeconfig.json
+C:\fp2022\cursnumere\cursnumere\bin\Debug\net6.0\cursnumere.dll
+C:\fp2022\cursnumere\cursnumere\bin\Debug\net6.0\cursnumere.pdb
+C:\fp2022\cursnumere\cursnumere\obj\Debug\net6.0\cursnumere.csproj.AssemblyReference.cache
+C:\fp2022\cursnumere\cursnumere\obj\Debug\net6.0\cursnumere.GeneratedMSBuildEditorConfig.editorconfig
+C:\fp2022\cursnumere\cursnumere\obj\Debug\net6.0\cursnumere.AssemblyInfoInputs.cache
+C:\fp2022\cursnumere\cursnumere\obj\Debug\net6.0\cursnumere.AssemblyInfo.cs
+C:\fp2022\cursnumere\cursnumere\obj\Debug\net6.0\cursnumere.csproj.CoreCompileInputs.cache
+C:\fp2022\cursnumere\cursnumere\obj\Debug\net6.0\cursnumere.dll
+C:\fp2022\cursnumere\cursnumere\obj\Debug\net6.0\refint\cursnumere.dll
+C:\fp2022\cursnumere\cursnumere\obj\Debug\net6.0\cursnumere.pdb
+C:\fp2022\cursnumere\cursnumere\obj\Debug\net6.0\cursnumere.genruntimeconfig.cache
+C:\fp2022\cursnumere\cursnumere\obj\Debug\net6.0\ref\cursnumere.dll

@@ -1,0 +1,15 @@
+C:\fp2022\cifreimpare\cifreimpare\bin\Debug\net6.0\cifreimpare.exe
+C:\fp2022\cifreimpare\cifreimpare\bin\Debug\net6.0\cifreimpare.deps.json
+C:\fp2022\cifreimpare\cifreimpare\bin\Debug\net6.0\cifreimpare.runtimeconfig.json
+C:\fp2022\cifreimpare\cifreimpare\bin\Debug\net6.0\cifreimpare.dll
+C:\fp2022\cifreimpare\cifreimpare\bin\Debug\net6.0\cifreimpare.pdb
+C:\fp2022\cifreimpare\cifreimpare\obj\Debug\net6.0\cifreimpare.csproj.AssemblyReference.cache
+C:\fp2022\cifreimpare\cifreimpare\obj\Debug\net6.0\cifreimpare.GeneratedMSBuildEditorConfig.editorconfig
+C:\fp2022\cifreimpare\cifreimpare\obj\Debug\net6.0\cifreimpare.AssemblyInfoInputs.cache
+C:\fp2022\cifreimpare\cifreimpare\obj\Debug\net6.0\cifreimpare.AssemblyInfo.cs
+C:\fp2022\cifreimpare\cifreimpare\obj\Debug\net6.0\cifreimpare.csproj.CoreCompileInputs.cache
+C:\fp2022\cifreimpare\cifreimpare\obj\Debug\net6.0\cifreimpare.dll
+C:\fp2022\cifreimpare\cifreimpare\obj\Debug\net6.0\refint\cifreimpare.dll
+C:\fp2022\cifreimpare\cifreimpare\obj\Debug\net6.0\cifreimpare.pdb
+C:\fp2022\cifreimpare\cifreimpare\obj\Debug\net6.0\cifreimpare.genruntimeconfig.cache
+C:\fp2022\cifreimpare\cifreimpare\obj\Debug\net6.0\ref\cifreimpare.dll

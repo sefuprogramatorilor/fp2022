@@ -1,0 +1,15 @@
+C:\fp2022\sumcif\sumcif\bin\Debug\net6.0\sumcif.exe
+C:\fp2022\sumcif\sumcif\bin\Debug\net6.0\sumcif.deps.json
+C:\fp2022\sumcif\sumcif\bin\Debug\net6.0\sumcif.runtimeconfig.json
+C:\fp2022\sumcif\sumcif\bin\Debug\net6.0\sumcif.dll
+C:\fp2022\sumcif\sumcif\bin\Debug\net6.0\sumcif.pdb
+C:\fp2022\sumcif\sumcif\obj\Debug\net6.0\sumcif.csproj.AssemblyReference.cache
+C:\fp2022\sumcif\sumcif\obj\Debug\net6.0\sumcif.GeneratedMSBuildEditorConfig.editorconfig
+C:\fp2022\sumcif\sumcif\obj\Debug\net6.0\sumcif.AssemblyInfoInputs.cache
+C:\fp2022\sumcif\sumcif\obj\Debug\net6.0\sumcif.AssemblyInfo.cs
+C:\fp2022\sumcif\sumcif\obj\Debug\net6.0\sumcif.csproj.CoreCompileInputs.cache
+C:\fp2022\sumcif\sumcif\obj\Debug\net6.0\sumcif.dll
+C:\fp2022\sumcif\sumcif\obj\Debug\net6.0\refint\sumcif.dll
+C:\fp2022\sumcif\sumcif\obj\Debug\net6.0\sumcif.pdb
+C:\fp2022\sumcif\sumcif\obj\Debug\net6.0\sumcif.genruntimeconfig.cache
+C:\fp2022\sumcif\sumcif\obj\Debug\net6.0\ref\sumcif.dll
