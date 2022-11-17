@@ -1,0 +1,15 @@
+C:\fp2022\17.11.22\17.11.22\bin\Debug\net6.0\17.11.22.exe
+C:\fp2022\17.11.22\17.11.22\bin\Debug\net6.0\17.11.22.deps.json
+C:\fp2022\17.11.22\17.11.22\bin\Debug\net6.0\17.11.22.runtimeconfig.json
+C:\fp2022\17.11.22\17.11.22\bin\Debug\net6.0\17.11.22.dll
+C:\fp2022\17.11.22\17.11.22\bin\Debug\net6.0\17.11.22.pdb
+C:\fp2022\17.11.22\17.11.22\obj\Debug\net6.0\17.11.22.csproj.AssemblyReference.cache
+C:\fp2022\17.11.22\17.11.22\obj\Debug\net6.0\17.11.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\fp2022\17.11.22\17.11.22\obj\Debug\net6.0\17.11.22.AssemblyInfoInputs.cache
+C:\fp2022\17.11.22\17.11.22\obj\Debug\net6.0\17.11.22.AssemblyInfo.cs
+C:\fp2022\17.11.22\17.11.22\obj\Debug\net6.0\17.11.22.csproj.CoreCompileInputs.cache
+C:\fp2022\17.11.22\17.11.22\obj\Debug\net6.0\17.11.22.dll
+C:\fp2022\17.11.22\17.11.22\obj\Debug\net6.0\refint\17.11.22.dll
+C:\fp2022\17.11.22\17.11.22\obj\Debug\net6.0\17.11.22.pdb
+C:\fp2022\17.11.22\17.11.22\obj\Debug\net6.0\17.11.22.genruntimeconfig.cache
+C:\fp2022\17.11.22\17.11.22\obj\Debug\net6.0\ref\17.11.22.dll
